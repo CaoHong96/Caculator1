@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator1", "Caculator1\Caculator1.csproj", "{EBD47092-E7C1-47D7-8AB5-17A2D852B96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD47092-E7C1-47D7-8AB5-17A2D852B96A}.Debug|x86.ActiveCfg = Debug|x86
+		{EBD47092-E7C1-47D7-8AB5-17A2D852B96A}.Debug|x86.Build.0 = Debug|x86
+		{EBD47092-E7C1-47D7-8AB5-17A2D852B96A}.Release|x86.ActiveCfg = Release|x86
+		{EBD47092-E7C1-47D7-8AB5-17A2D852B96A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+E:\visual studio\Caculator1\Caculator1\obj\x86\Debug\Caculator1.csprojResolveAssemblyReference.cache
+E:\visual studio\Caculator1\Caculator1\obj\x86\Debug\Calculator.frmMain.resources
+E:\visual studio\Caculator1\Caculator1\obj\x86\Debug\Caculator1.Properties.Resources.resources
+E:\visual studio\Caculator1\Caculator1\obj\x86\Debug\Caculator1.csproj.GenerateResource.Cache
+E:\visual studio\Caculator1\Caculator1\bin\Debug\Caculator1.exe
+E:\visual studio\Caculator1\Caculator1\bin\Debug\Caculator1.pdb
+E:\visual studio\Caculator1\Caculator1\obj\x86\Debug\Caculator1.exe
+E:\visual studio\Caculator1\Caculator1\obj\x86\Debug\Caculator1.pdb
